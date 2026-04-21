@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SmartShop.Api/SmartShop.Api.csproj" />
+  <Project Path="SmartShoppingAssistant.DataAcces/SmartShoppingAssistant.DataAcces.csproj" />
+</Solution>
